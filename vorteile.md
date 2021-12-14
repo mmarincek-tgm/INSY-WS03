@@ -4,7 +4,11 @@
 
 Google Cloud steht für Open-Source-, Multi-Cloud und Hybrid-Cloud-Prozesse. Man kann die Daten und Anwendungen aus der Google Cloud in jeder Umgebung verwenden, sei es privat oder öffentlich, ohne die Konsistenz zu verlieren.
 
+*Noch mehr zu Multi-Cloud, siehe [4]*
+
 Mit den Machine Learning Funktionen von Google Cloud kann man erweiterte Analysen durchführen, Prozesse automatisieren, intelligente Vorhersagen treffen sowies Verwaltung und Abläufe optimieren.
+
+*Noch mehr zu ML, siehe [3]*
 
 ### Nachhaltigkeit
 
@@ -43,10 +47,32 @@ Weiters besitzt Google Cloud viele Zertifikate im Bereich Cloud Compliance und h
 6. Google gewährt keiner Behörde „Backdoor”-Zugriff
 7. Googles Datenschutzverfahren werden anhand internationaler Standards geprüft
 
+### Google Workspace
+
+Natürlich funtktioniert die Google Cloud wunderbar mit anderen Diensten von Google zusammen, wie Gmail, Google Calender, Google Drive, Google Meet, Google Docs, ... [10]
+
+### Kosten- und Effizienzoptimierung
+
+Laut einer TechValidate-Umfrage stimmen 86 % der Kunden von Google Cloud der folgenden Aussage zu: „Mit Google Cloud konnten wir unsere Betriebseffizienz erhöhen und unsere IT-Ausgaben optimieren.“ [6]
+
+### Branchenspezifische Lösungen
+
+Google Cloud unterstützt den digitalen Wandel bei weltweit führenden Unternehmen in den Bereichen Einzelhandel, Finanzdienstleistungen, Fertigung, Medien, Gaming, Unterhaltung und Telekommunikation sowie im öffentlichen Sektor und im Gesundheitswesen. Ein bekanntes Beispiel ist Procter & Gamble (P&G). [5]
+
 ## Quellen
+
+[3] https://cloud.google.com/data-cloud/
+
+[4] https://cloud.google.com/multicloud 
+
+[5] "Branchenspezifische Lösungen"; Google Cloud; https://cloud.google.com/why-google-cloud (14.12.2021)
+
+[6] "Geld sparen, die Effizienz steigern und die Kosten optimieren"; Google Cloud; https://cloud.google.com/why-google-cloud
 
 [7] "Nachhaltigkeit bei Cloud"; Google Cloud; https://cloud.google.com/sustainability (14.12.2021)
 
 [8] "Unsere Prinzipien in Bezug auf Vertrauen"; Google Cloud; https://cloud.google.com/security/transparency (14.12.2021)
 
 [9] "Vertrauen und Sicherheit"; Google Cloud; https://cloud.google.com/security (14.12.2021)
+
+[10] "Effizient im Team kommunizieren, Inhalte erstellen und zusammenarbeiten"; Google Workspace; https://workspace.google.com/ (14.12.2021)
