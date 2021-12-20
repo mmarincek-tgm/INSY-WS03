@@ -1,14 +1,24 @@
 ## Vorteile
 
-14.12.2021
+20.12.2021
 
-Google Cloud steht für Open-Source-, Multi-Cloud und Hybrid-Cloud-Prozesse. Man kann die Daten und Anwendungen aus der Google Cloud in jeder Umgebung verwenden, sei es privat oder öffentlich, ohne die Konsistenz zu verlieren.
+### Data Cloud
 
-*Noch mehr zu Multi-Cloud, siehe [4]*
+Viele Unternehmen geben an, dass sie immer noch keinen greifbaren und messbaren Mehrwert aus Daten erkennen können. Deswegen vereint Google Cloud mit einer branchenweit einzigartigen einheitlichen Datenplattform Daten und Software miteinander und erstellt eine Data Cloud. KI/ML ist eine Kernkomponente der Daten-Cloud-Lösung, mit der man nicht nur bessere Informationen gewinnen, sondern auch Kern-Geschäftsprozesse mithilfe von Daten als Kern automatisieren können.
 
-Mit den Machine Learning Funktionen von Google Cloud kann man erweiterte Analysen durchführen, Prozesse automatisieren, intelligente Vorhersagen treffen sowies Verwaltung und Abläufe optimieren.
+Google Cloud ist offen und standardbasiert. Es bietet Integration mit Open-Source-Standards und -APIs, so wird die Portabilität und Erweiterbarkeit gewährleistet, um eine Anbieterabhängigkeit zu verhindern. 
 
-*Noch mehr zu ML, siehe [3]*
+Google wurde auf einer wegweisenden KI-Forschung errichtet und auf dem Grundsatz, dass die Informationen der Welt für Menschen und Unternehmen überall nutzbar gemacht werden. Das wird auch in der Google Cloud genutzt, denn damit erhalten Data Scientists, Datenanalysten und ML Engineers Zugriff auf dasselbe Toolkit, das von Google selbst verwendet wird, um Geschäftsergebnisse jeder Größenordnung steigern zu können. [3]
+
+### Multi Cloud
+
+Google Cloud bietet die Flexibiltät, Anwendungen in Hybrid- und Multi Cloud-Umgebungen zu migrieren, zu erstellen, zu optimieren und gleichzeitig Anbieterabhängigkeit zu reduzieren, branchenführende Lösungen zu nutzen und behördliche Anforderungen zu erfüllen.
+
+Mit der Google Cloud kann man bis zu 1 Petabyte an Daten mithilfe einer hoch skalierbaren, kostengünstigen und sicheren Data-Warehouse-Lösung ([BigQuery](https://cloud.google.com/bigquery) genannt).
+
+Auch bietet Google Cloud Kubernetes und eine serverlose Plattform an, um zugeschnittene containerbasierte Anwendungen schneller erstellen zu können, sowohl in Cloud-Umgebungen als auch lokal.
+
+Google ist einer der größten Mitwirkenden für das Open-Source-System und arbeitet mit der Open-Source-Community zusammen, um bekannte Open-Source-Technologien wie Kubernetes zu entwickeln und dann als verwaltete Dienste bereitzustellen. So erhalten Nutzer maximale Wahlfreiheit und eine erhöhte Langlebigkeit und Verlässlichkeit Ihrer IT-Investitionen. [4]
 
 ### Nachhaltigkeit
 
@@ -61,9 +71,9 @@ Google Cloud unterstützt den digitalen Wandel bei weltweit führenden Unternehm
 
 ## Quellen
 
-[3] https://cloud.google.com/data-cloud/
+[3] "Data Cloud"; Google Cloud; https://cloud.google.com/data-cloud/ (20.12.2021)
 
-[4] https://cloud.google.com/multicloud 
+[4] "Transformation mit Multi-Cloud-Lösungen von Google optimieren"; Google Cloud; https://cloud.google.com/multicloud (20.12.2021)
 
 [5] "Branchenspezifische Lösungen"; Google Cloud; https://cloud.google.com/why-google-cloud (14.12.2021)
 
