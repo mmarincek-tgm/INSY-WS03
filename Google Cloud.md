@@ -109,7 +109,7 @@ Viele Unternehmen geben an, dass sie immer noch keinen greifbaren und messbaren 
 
 Google Cloud ist offen und standardbasiert. Es bietet Integration mit Open-Source-Standards und -APIs, so wird die Portabilität und Erweiterbarkeit gewährleistet, um eine Anbieterabhängigkeit zu verhindern.
 
-Google wurde auf einer wegweisenden KI-Forschung errichtet und auf dem Grundsatz, dass die Informationen der Welt für Menschen und Unternehmen überall nutzbar gemacht werden. Das wird auch in der Google Cloud genutzt, denn damit erhalten Data Scientists, Datenanalysten und ML Engineers Zugriff auf dasselbe Toolkit, das von Google selbst verwendet wird, um Geschäftsergebnisse jeder Größenordnung steigern zu können. [3]
+Google wurde auf einer wegweisenden KI-Forschung errichtet und auf dem Grundsatz, dass die Informationen der Welt für Menschen und Unternehmen überall nutzbar gemacht werden. Das wird auch in der Google Cloud genutzt, denn damit erhalten Data Scientists, Datenanalysten und ML Engineers Zugriff auf dasselbe Toolkit, das von Google selbst verwendet wird, um Geschäftsergebnisse jeder Größenordnung steigern zu können. [6]
 
 ### Multi Cloud
 
@@ -119,7 +119,7 @@ Mit der Google Cloud kann man bis zu 1 Petabyte an Daten mithilfe einer hoch ska
 
 Auch bietet Google Cloud Kubernetes und eine serverlose Plattform an, um zugeschnittene containerbasierte Anwendungen schneller erstellen zu können, sowohl in Cloud-Umgebungen als auch lokal.
 
-Google ist einer der größten Mitwirkenden für das Open-Source-System und arbeitet mit der Open-Source-Community zusammen, um bekannte Open-Source-Technologien wie Kubernetes zu entwickeln und dann als verwaltete Dienste bereitzustellen. So erhalten Nutzer maximale Wahlfreiheit und eine erhöhte Langlebigkeit und Verlässlichkeit Ihrer IT-Investitionen. [4]
+Google ist einer der größten Mitwirkenden für das Open-Source-System und arbeitet mit der Open-Source-Community zusammen, um bekannte Open-Source-Technologien wie Kubernetes zu entwickeln und dann als verwaltete Dienste bereitzustellen. So erhalten Nutzer maximale Wahlfreiheit und eine erhöhte Langlebigkeit und Verlässlichkeit Ihrer IT-Investitionen. [7]
 
 ### Nachhaltigkeit
 
@@ -133,7 +133,7 @@ Innerhalb von sechs Jahren hat sich in Sachen Nachhaltigkeit in der Google Cloud
 
 [![Grafik mit einem Foto eines Google-Rechenzentrums bei Nacht. Die Grafik zeigt die vier Punkte um einen Kreis in dem „Circular economy“ steht. Der oberste Punkt lautet „Maintain-Schrägstrich-Prolong“. Der rechte Punkt lautet „Refurbish-Schrägstrich-Remanufacture“. Der untere Punkt lautet „Reuse-Schrägstrich-Redistribute“ Der linke Punkt lautet „Recycle“.](https://camo.githubusercontent.com/2568af4cd95649b153c56711bd968838fbe54fb10a2611ae6cd60b08a7181683/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4c754356775459774c5f4c665a6c62353150756a5f4f5034626c3449674c554f4e30344d62587257684e4131304f35566a776c736c4b726144634e646a2d536e4365346b4a3938775463524d3d6531342d683233352d77363030)](https://camo.githubusercontent.com/2568af4cd95649b153c56711bd968838fbe54fb10a2611ae6cd60b08a7181683/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4c754356775459774c5f4c665a6c62353150756a5f4f5034626c3449674c554f4e30344d62587257684e4131304f35566a776c736c4b726144634e646a2d536e4365346b4a3938775463524d3d6531342d683233352d77363030)
 
-Google sagt von sich selbst: „Wir stellen uns den Herausforderungen des Klimawandels und der Notwendigkeit der Ressourceneffizienz. Darum möchten wir jeden befähigen, mithilfe von Google-Technologie eine nachhaltigere Welt zu schaffen. Das gilt für Unternehmen, staatliche und gemeinnützige Organisationen, Gemeinden und auch Einzelpersonen.“ [7]
+Google sagt von sich selbst: „Wir stellen uns den Herausforderungen des Klimawandels und der Notwendigkeit der Ressourceneffizienz. Darum möchten wir jeden befähigen, mithilfe von Google-Technologie eine nachhaltigere Welt zu schaffen. Das gilt für Unternehmen, staatliche und gemeinnützige Organisationen, Gemeinden und auch Einzelpersonen.“ [10]
 
 | Daten | Beschreibung                                                 |
 | ----- | ------------------------------------------------------------ |
@@ -146,7 +146,7 @@ Google sagt von sich selbst: „Wir stellen uns den Herausforderungen des Klimaw
 
 Google Cloud schützt Daten, Anwendungen, Infrastruktur sowie Kunden mithilfe derselben Infrastruktur- und Sicherheitsdienste, die auch Google nutzt, vor betrügerischen Aktivitäten, Spam und Missbrauch. Die Netzwerk-, Datenspeicher- und Computing-Dienste von Google Cloud sorgen für die Verschlüsselung von ruhenden sowie aktiven Daten und von Daten bei der Übertragung. Dafür baut ein Stack die Sicherheit durch progressive Schichten auf, um einen tief greifenden Schutz im großen Maßstab zu bieten.
 
-Daten werden bei der Übertragung an Google Cloud Einrichtungen verschlüsselt und können nur von autorisierten Rollen und Diensten mit überwachten Zugriff aufgerufen werden. [9]
+Daten werden bei der Übertragung an Google Cloud Einrichtungen verschlüsselt und können nur von autorisierten Rollen und Diensten mit überwachten Zugriff aufgerufen werden. [12]
 
 Weiters besitzt Google Cloud viele Zertifikate im Bereich Cloud Compliance und hat folgenden Vertrauensgrundsatz [8]:
 
@@ -420,3 +420,33 @@ Alles in allem sollten sowohl *GCP* als auch Azure innerhalb des nächsten Jahrz
 Google Cloud bietet eine Vielzahl an Produkten, Lösungen und Diensten an, welche die Arbeit in Unternehmen erleichtern. Außerdem ist Google Cloud sehr auf Effizienz spezialisiert und versucht, als Cloud-Anbieter nachhaltig zu agieren und auch kleine Unternehmen und Start-Ups zu unterstützen.
 
 Auch wenn es noch nicht der größte Cloud-Anbieter ist, steht Google Cloud durch sein großes Wissen über KI (dank der Google Suchmaschine) eine große Zukunft bevor.
+
+
+
+## Quellen
+
+[1] "Google Cloud-Plattform: Was es ist, wie man es benutzt und wie es verglichen wird"; Acronis; https://www.acronis.com/de-de/articles/google-cloud-platform/ (29.11.2021)
+
+[2] "Google Cloud"; Google Cloud; https://cloud.google.com/ (29.11.2021)
+
+[3] "Kostenlose Stufe"; Google Cloud - Dokumentation; https://cloud.google.com/free/docs/gcp-free-tier#free-tier (20.12.2021)
+
+[4] "Google Cloud-Preise"; Google Cloud; https://cloud.google.com/pricing (20.12.2021)
+
+[5] "Google Cloud Pricing Calculator"; Google Cloud; https://cloud.google.com/products/calculator (20.12.2021)
+
+[6] "Data Cloud"; Google Cloud; https://cloud.google.com/data-cloud/ (20.12.2021)
+
+[7] "Transformation mit Multi-Cloud-Lösungen von Google optimieren"; Google Cloud; https://cloud.google.com/multicloud (20.12.2021)
+
+[8] "Branchenspezifische Lösungen"; Google Cloud; https://cloud.google.com/why-google-cloud (14.12.2021)
+
+[9] "Geld sparen, die Effizienz steigern und die Kosten optimieren"; Google Cloud; https://cloud.google.com/why-google-cloud
+
+[10] "Nachhaltigkeit bei Cloud"; Google Cloud; https://cloud.google.com/sustainability (14.12.2021)
+
+[11] "Unsere Prinzipien in Bezug auf Vertrauen"; Google Cloud; https://cloud.google.com/security/transparency (14.12.2021)
+
+[12] "Vertrauen und Sicherheit"; Google Cloud; https://cloud.google.com/security (14.12.2021)
+
+[13] "Effizient im Team kommunizieren, Inhalte erstellen und zusammenarbeiten"; Google Workspace; https://workspace.google.com/(14.12.2021)
