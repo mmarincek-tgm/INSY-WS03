@@ -4,7 +4,7 @@
 
 Google Cloud hat zahlreiche Serverfarmen, verteilt auf der ganzen Welt, mit Ausnahme von Afrika. Speziell in Europa und Nordamerika kann man sehr viele dieser Farmen finden.
 
-![server_standorte](/Users/florian/Desktop/Insy Präsentation/INSY-WS03/server_standorte.png)
+![server_standorte](server_standorte.png)
 
 ## SPI Model
 
