@@ -123,8 +123,18 @@ Im **Mai** [Northern Virginia region](https://cloudplatform.googleblog.com/2017/
 Im **Juni**  [Release of Spinnaker 1.0](https://cloudplatform.googleblog.com/2017/06/spinnaker-10-continuous-delivery.html) (an open-source multi-cloud continuous delivery platform). [Sydney](https://cloudplatform.googleblog.com/2017/06/Google-Cloud-Region-in-Sydney.html) and [Singapore](https://cloudplatform.googleblog.com/2017/06/Google-Cloud-Platform-comes-to-Singapore.html) regions become available. [Java 8 support](https://cloudplatform.googleblog.com/2017/06/Google-App-Engine-standard-now-supports-Java-8.html) added for App Engine standard.
 
 Im **Juli** Container Engine supports [Kubernetes 1.7](https://cloudplatform.googleblog.com/2017/07/Container-Engine-now-runs-Kubernetes-1-7-to-drive-enterprise-ready-secure-hybrid-workloads.html). New [London region](https://cloudplatform.googleblog.com/2017/07/Google-Cloud-Platform-now-open-in-London.html) ([europe-west2](https://cloud.google.com/london)) launched. [Transfer Appliance launched](https://cloudplatform.googleblog.com/2017/07/introducing-Transfer-Appliance-Sneakernet-for-the-cloud-era.html) to help ingest large amounts of data to Google Cloud Platform. GCP announces use of [congestion control algorithm TCP BBR](https://cloudplatform.googleblog.com/2017/07/TCP-BBR-congestion-control-comes-to-GCP-your-Internet-just-got-faster.html) to achieve higher bandwidths and lower latencies. [Web-based code editor](https://cloudplatform.googleblog.com/2017/07/Cloud-Shells-code-editor-now-in-beta.html) within Cloud Shell launched in beta.
+### Meilensteine
+
+1. 2008 Ankünding der App Engine
+2. 2011 Veröffentlichung der App Engine
+3. 2012 Programmiersprache Go
+4. 2015
+   1. Kubernetes gelaunchet 
+   2.  Microsoft, RedHat, IBM, Docker, Mesosphere, CoreOS und SaltStack der Kubernetes Community gejoint.
+   3. Firebase ein Teil von GCP.
+   4. ein *Namensschema* (Alpha/Beta)
 
 ## Quellen
 
 [1]:https://medium.com/@retomeier/an-annotated-history-of-googles-cloud-platform-90b90f948920 "An Annotated History of Google’s Cloud Platform besucht am 2021-11-29"
-[(1)]:https://medium.com/@retomeier/an-annotated-history-of-googles-cloud-platform-90b90f948920 "An Annotated History of Google’s Cloud Platform besucht am 2021-11-29"
+(1):https://medium.com/@retomeier/an-annotated-history-of-googles-cloud-platform-90b90f948920 "An Annotated History of Google’s Cloud Platform besucht am 2021-11-29"
