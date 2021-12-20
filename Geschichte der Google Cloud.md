@@ -64,13 +64,24 @@ Im **Juli** sind Microsoft, RedHat, IBM, Docker, Mesosphere, CoreOS und SaltStac
 
 Im **August** wurde SSD Persistent Disk GA.
 
-Im **Oktober** wurde Firebase 
+Im **Oktober** wurde Firebase ein Teil von GCP. ZUsätzlich hat sich GCP auf ein *Namensschema* geeinigt.
 
-**October 2014** — [Firebase is acquired](https://techcrunch.com/2014/10/21/google-acquires-firebase-to-help-developers-build-better-realtime-apps/) and becomes part of GCP.
+Im **November** wurde die Alpah released der Container Engine.
 
-**October 2014** — GCP [commits to standardized naming](https://cloudplatform.googleblog.com/2014/10/new-release-phases-for-google-cloud.html) for release process: Beginning with “Alpha” for testing by a select  group of customers, followed by “Beta” which is publicly available to to all customers, and finally “General Availability” at which point they  gain an [SLA](https://en.wikipedia.org/wiki/Service-level_agreement) and full support[²⁸](https://gigaom.com/2014/10/03/googles-new-way-of-naming-not-ready-for-primetime-products-should-make-developers-happy/).
+#### 2015
 
-**November 2014** — [Alpha release of Container Engine](https://cloudplatform.googleblog.com/2014/11/unleashing-containers-and-kubernetes-with-google-compute-engine.html), a Kubernetes-powered, fully-managed cluster manager for Docker containers[²⁹](https://www.infoq.com/news/2014/11/google-cloud-container-engine). Managed VMs, Local SSDs, and Compute Engine Autoscaler [go into Beta](http://www.forbes.com/sites/benkepes/2014/11/04/you-couldnt-be-more-serious-about-enterprise-cloud-googles-long-list-of-announcements/#16bf63104934).
+Im **Jänner** wurde Google Cloud Monitring eine Betas und supportet App Engine, Computer Engine, Cloud Pub/sub und Cloud SQL. Google Cloud Trace und Container Registry gingen auch in die Beta und Local SSD wurden GA.
+
+Im **März** wurden Cloud Pub/Sub ind die Beta und Clud Storage launcht die Alpha.
+
+Im **April**  wurde Cloud DNS GA zusammen mit einer Expansion von load blancing Lösungen. BigQuery unterstütz nun auch europäische Zeitzonen und Data Flow geht in die Beta.
+
+Im **Mai** launchen [Bigtable](https://cloudplatform.googleblog.com/2015/05/introducing-Google-Cloud-Bigtable.html) und [Compute Engine Preemptible VMs](https://cloudplatform.googleblog.com/2015/05/Introducing-Preemptible-VMs-a-new-class-of-compute-available-at-70-off-standard-pricing.html) die Betas
+
+Im **Juni** wurde App Engine für PHP GA und Container Engines geht in Beta.
+
+Im **Juli** wurden [Windows Server](https://cloudplatform.googleblog.com/2015/07/Bringing-Windows-to-Google-Cloud-Platform.html) on Compute Engine[³⁵](http://fortune.com/2015/07/14/google-cloud-welcomes-windows-server/), [App Engine for Go](https://cloudplatform.googleblog.com/2015/07/App-Engine-for-Go-is-Generally-Available.html)[³⁶](http://venturebeat.com/2015/07/08/google-app-engine-for-the-go-programming-language-is-finally-out-of-beta-after-4-years/), and [Cloud Storage Nearline](http://www.programmableweb.com/news/google-cloud-storage-nearline-goes-to-general-availability/2015/07/23)  GA. Zusätzlich hat Kubernetes auch noch die Version 1.0 angekündigt und als "production ready " beschrieben. Es wurde auch noch ein Go client für Bigtable gelauncht.
+
 
 
 
