@@ -34,7 +34,7 @@ Google Cloud bietet verschiedene Lösungen für verschiedene Bereich an.
 
 Wie schon etwas weiter oben erwähnt, bietet Google Cloud in verschiedenen Geschäftsfeldern Cloud-Lösungen an, welche die Effizienz und Agilität eines Unternehmens verbessern, Kosten senken und neue Geschäftsmodelle ermöglichen.
 
-Dies ist eine kleine Auswahl an Branchen, die in Google Cloud spezifisch unterstützt werden [1]:
+Dies ist eine kleine Auswahl an Branchen, die in Google Cloud spezifisch unterstützt werden [14]:
 
 - Einzelhandel
 - Verbrauchsgüter
@@ -52,7 +52,7 @@ Dies ist eine kleine Auswahl an Branchen, die in Google Cloud spezifisch unterst
 
 ### Anwendungsmodernisierung
 
-Weiters bietet Google Cloud cloudnative Technologien wie Container und serverlose Datenverarbeitung an [2]:
+Weiters bietet Google Cloud cloudnative Technologien wie Container und serverlose Datenverarbeitung an [15]:
 
 - Hybrid- und Multi-Cloud-Anwendungsplattform
 - Serverlose Lösungen
@@ -61,7 +61,7 @@ Weiters bietet Google Cloud cloudnative Technologien wie Container und serverlos
 
 ### Künstliche Intelligenz
 
-Googles künstliche Intelligenz bei der Suchmaschine ist sehr bekannt. Das Wissen dahinter kann man in der Google Cloud für das eigene Unternehmen für bessere Informationsgewinnung und höhere Effizienz verwenden [3]:
+Googles künstliche Intelligenz bei der Suchmaschine ist sehr bekannt. Das Wissen dahinter kann man in der Google Cloud für das eigene Unternehmen für bessere Informationsgewinnung und höhere Effizienz verwenden [16]:
 
 - Data Science
 - Intelligente Produkte
@@ -69,7 +69,7 @@ Googles künstliche Intelligenz bei der Suchmaschine ist sehr bekannt. Das Wisse
 
 ### Datenbanken
 
-Natürlich bietet Google Cloud verschiedene Lösungen für Datenbanken an [4]:
+Natürlich bietet Google Cloud verschiedene Lösungen für Datenbanken an [17]:
 
 - Datenbankmigration
 - Datenbankmodernisierung
@@ -78,7 +78,7 @@ Natürlich bietet Google Cloud verschiedene Lösungen für Datenbanken an [4]:
 
 ### Modernisierung der Infrastruktur
 
-Google Cloud möchte in naher Zukunft der größte Cloud-Anbieter sein. Dafür stellt er verschiedene Lösungen für die Modernisierung der Infrastruktur zur Verfügung, um auch mit anderer Software in der Google Cloud zurechtzukommen [5]:
+Google Cloud möchte in naher Zukunft der größte Cloud-Anbieter sein. Dafür stellt er verschiedene Lösungen für die Modernisierung der Infrastruktur zur Verfügung, um auch mit anderer Software in der Google Cloud zurechtzukommen [18]:
 
 - Backup und Notfallwiederherstellung
 - Rechenzentrumsmigration
@@ -89,11 +89,11 @@ Google Cloud möchte in naher Zukunft der größte Cloud-Anbieter sein. Dafür s
 
 ### Sicherheit
 
-Passend zu deren Sicherheitsvorteilen, bietet Google Cloud auch für Unternehmer Lösungen für das Erkennen von Onlinebedrohungen und dessen Schutz an [6].
+Passend zu deren Sicherheitsvorteilen, bietet Google Cloud auch für Unternehmer Lösungen für das Erkennen von Onlinebedrohungen und dessen Schutz an [19].
 
 ### Start-Ups
 
-Google Cloud bietet extra für Start-Ups und kleine Unternehmen Lösungen an. Dabei gibt es Guthaben für Produkte, technische Schulungen sowie geschäftliche Chancen und Angeboten. Mit Google Cloud kann man alles auf die Anforderungen des Unternehmens anpassen und dadurch ein erfolgreiches, nachhaltiges Unternehmen aufbauen - mit intelligenter, kostengünstiger und bewährter Technologie. [7]
+Google Cloud bietet extra für Start-Ups und kleine Unternehmen Lösungen an. Dabei gibt es Guthaben für Produkte, technische Schulungen sowie geschäftliche Chancen und Angeboten. Mit Google Cloud kann man alles auf die Anforderungen des Unternehmens anpassen und dadurch ein erfolgreiches, nachhaltiges Unternehmen aufbauen - mit intelligenter, kostengünstiger und bewährter Technologie. [20]
 
 | Innovationen schneller und leichter realisieren              | Echtzeitinformationen aus Daten gewinnen                     | Zusammenarbeit von überall aus                               | Geld sparen                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -148,7 +148,7 @@ Google Cloud schützt Daten, Anwendungen, Infrastruktur sowie Kunden mithilfe de
 
 Daten werden bei der Übertragung an Google Cloud Einrichtungen verschlüsselt und können nur von autorisierten Rollen und Diensten mit überwachten Zugriff aufgerufen werden. [12]
 
-Weiters besitzt Google Cloud viele Zertifikate im Bereich Cloud Compliance und hat folgenden Vertrauensgrundsatz [8]:
+Weiters besitzt Google Cloud viele Zertifikate im Bereich Cloud Compliance und hat folgenden Vertrauensgrundsatz [11]:
 
 1. Eigentümer der Daten ist der Kunde, nicht Google
 2. Google verkauft die Daten nicht an Dritte
@@ -160,15 +160,15 @@ Weiters besitzt Google Cloud viele Zertifikate im Bereich Cloud Compliance und h
 
 ### Google Workspace
 
-Natürlich funtktioniert die Google Cloud wunderbar mit anderen Diensten von Google zusammen, wie Gmail, Google Calender, Google Drive, Google Meet, Google Docs, ... [10]
+Natürlich funtktioniert die Google Cloud wunderbar mit anderen Diensten von Google zusammen, wie Gmail, Google Calender, Google Drive, Google Meet, Google Docs, ... [13]
 
 ### Kosten- und Effizienzoptimierung
 
-Laut einer TechValidate-Umfrage stimmen 86 % der Kunden von Google Cloud der folgenden Aussage zu: „Mit Google Cloud konnten wir unsere Betriebseffizienz erhöhen und unsere IT-Ausgaben optimieren.“ [6]
+Laut einer TechValidate-Umfrage stimmen 86 % der Kunden von Google Cloud der folgenden Aussage zu: „Mit Google Cloud konnten wir unsere Betriebseffizienz erhöhen und unsere IT-Ausgaben optimieren.“ [9]
 
 ### Branchenspezifische Lösungen
 
-Google Cloud unterstützt den digitalen Wandel bei weltweit führenden Unternehmen in den Bereichen Einzelhandel, Finanzdienstleistungen, Fertigung, Medien, Gaming, Unterhaltung und Telekommunikation sowie im öffentlichen Sektor und im Gesundheitswesen. Ein bekanntes Beispiel ist Procter & Gamble (P&G). [5]
+Google Cloud unterstützt den digitalen Wandel bei weltweit führenden Unternehmen in den Bereichen Einzelhandel, Finanzdienstleistungen, Fertigung, Medien, Gaming, Unterhaltung und Telekommunikation sowie im öffentlichen Sektor und im Gesundheitswesen. Ein bekanntes Beispiel ist Procter & Gamble (P&G). [8]
 
 
 
@@ -298,13 +298,11 @@ Die wichtigsten Dienstleistungen im Bereich SaaS sind:
 
 
 
-##### Kuberenetes
+##### Kuberenetes [22]
 
 | Entwicklung von Anwendungen beschleunigen, ohne die Sicherheit zu gefährden | Vorgänge mit Release- Versionen optimieren                   | Vorgänge am 2. Tag mithilfe von Google SREs reduzieren       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Entwickeln Sie unterschiedlichste Anwendungen, die Unterstützung für zustandsorientierte, serverlose und Anwendungsbeschleuniger bieten. Sichern und beschleunigen Sie mit Kubernetes-eigenen CI/CD-Tools jede Phase des Erstellungs- und Bereitstellungszyklus. | Wählen Sie die Release-Version, die Ihren Unternehmensanforderungen entspricht. Schnelle, regelmäßige und stabile Release-Versionen haben unterschiedliche Rhythmen für Knoten-Upgrades und bieten Supportstufen, die der jeweiligen Version entsprechen. | Dank der Site Reliability Engineers (SREs) von Google sparen Sie Zeit und können sich ganz auf Ihre Anwendungen konzentrieren. Unsere SREs haben Ihren Cluster und seine Computing-, Netzwerk- und Speicherressourcen ständig im Blick. |
-
-Quelle: https://cloud.google.com/kubernetes-engine
 
 Google Kubernetes bietet 2 Betriebsarten:
 
@@ -313,13 +311,11 @@ Google Kubernetes bietet 2 Betriebsarten:
 
 ##### Anthos
 
-Doch Google Kubernetes selbst ist heutzutage nicht mehr für alle "der Way to go". Google hat mittlerweile einen viel umfangreicheren Dienst, der viele der altbekannten Dienste zu einem kombiniert, nämlicht Anthos Vorteile von Anthos:
+Doch Google Kubernetes selbst ist heutzutage nicht mehr für alle "der Way to go". Google hat mittlerweile einen viel umfangreicheren Dienst, der viele der altbekannten Dienste zu einem kombiniert, nämlicht Anthos Vorteile von Anthos [21]:
 
 | Anwendungen überall verwalten                                | Software schneller bereitstellen                             | Anwendungen und Softwarelieferkette schützen                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Anthos ist eine verwaltete Plattform für alle Ihre Anwendungs-Deployments, sowohl traditionelle als auch cloudnative. Sie können damit globale Flotten aufbauen und verwalten sowie Betriebskonsistenz übergreifend über diese schaffen. | Mit cloudnativen Tools und Anleitungen von Google können Sie die Produktivität Ihrer Entwickler und die Softwarebereitstellung beschleunigen, indem Sie die Vorteile von Cloud-Dienste, Container und serverloses Computing übergreifend für Ihre Bereitstellungen nutzen. | Sicherheit wird mit Anthos in jeder Phase des Lebenszyklus von Anwendungen integriert, d. h. während der Entwicklung, Erstellung und Ausführung. Die Sicherheits- und Richtlinienverwaltung erfolgt für alle Ihre Deployments automatisch. |
-
-Quelle: https://cloud.google.com/anthos?hl=de
 
 Mit diesem System umgeht Google das Problem, dass manche Anwendungen nicht mit allen Systemumgebungen kompatibel sind. Google beschreibt Anthos wie folgt: "Anthos ist eine offene Hybrid- und Multi-Cloud-Plattform, auf der Sie bestehende Anwendungen modernisieren, neue entwickeln und diese überall sicher ausführen können. Anthos basiert auf Open-Source-Technologien, die von Google federführend entwickelt wurden, darunter Kubernetes, Istio und Knative." Somit spart man sich die Anwendung vieler kleinerer Cloud Dienste und vereint sie somit zu einem Dienst.
 
@@ -450,3 +446,21 @@ Auch wenn es noch nicht der größte Cloud-Anbieter ist, steht Google Cloud durc
 [12] "Vertrauen und Sicherheit"; Google Cloud; https://cloud.google.com/security (14.12.2021)
 
 [13] "Effizient im Team kommunizieren, Inhalte erstellen und zusammenarbeiten"; Google Workspace; https://workspace.google.com/(14.12.2021)
+
+[14] "Branchenlösungen"; Google Cloud; https://cloud.google.com/solutions#section-2 (20.12.2021)
+
+[15] "Anwendungsmodernisierung"; Google Cloud; https://cloud.google.com/solutions#section-3 (20.12.2021)
+
+[16] "Künstliche Intelligenz"; Google Cloud; https://cloud.google.com/solutions#section-4 (20.12.2021)
+
+[17] "Datenbanken"; Google Cloud; https://cloud.google.com/solutions#section-6 (20.12.2021)
+
+[18] "Modernisierung der Infrastruktur"; Google Cloud; https://cloud.google.com/solutions#section-9 (20.12.2021)
+
+[19] "Sicherheit"; Google Cloud; https://cloud.google.com/solutions#section-11 (20.12.2021)
+
+[20] "Wachstumsschub für Ihr Unternehmen – dank unseres Start-up-Programms"; Google Cloud; https://cloud.google.com/startup(20.12.2021)
+
+[21] "Anthos"; Google Cloud; https://cloud.google.com/anthos?hl=de (19.12.2021)
+
+[22] "Google Kubernetes Engine"; Google Cloud; https://cloud.google.com/kubernetes-engine (19.12.2021)
