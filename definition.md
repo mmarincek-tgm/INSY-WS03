@@ -10,8 +10,26 @@ Mit dem Zugang zu den Services werden die Anwender in ihren Geschäfts- und IT-P
 
 Wenn man mit der Google Cloud abreitet, kann man sich ein Projekt anlegen, welches über eine webbasierte Konsole zur Verfügung gestellt wird. Dabei hat man auch die Möglichkeit, die Zugriffe von Teammitgliedern und Administratoren als Projekt-Eigentümer verwalten. [1]
 
+## Preise
+
+Um genauere Preisinformationen zu bekommen, muss man ein Angebot an Google Cloud schicken und es anfordern.
+
+Es gibt aber für Neukunden ein Guthaben von 300 Dollar, um Arbeitslasten auszuführen, zu testen und bereitzustellen und man kann innerhalb eines Nutzungslimit mehr als 20 Produkte kostenlos nutzen (genaue Liste hier [3]).
+
+Mit dem "Pay as you go" Preisen von Google Cloud bezahlt man nur für die Dienste, die man nutzt. Keine Vorabkosten, keine Kündigungsgebühren.
+
+Mit Google Cloud profitiert man im Vergleich zu anderen Anbietern von automatischen Einsparungen. Diese basieren auf der monatlichen Nutzung und der Vorauszahlung für Ressourcen mit entsprechenden Rabatten.
+
+Außerdem bietet Google Cloud einen Preisrechner [5] an, mit dem man nachvollziehen kann, wie die Kosten aufgrund von Standort, Arbeitslast und anderen Variablen fluktuieren. [4]
+
 ## Quellen
 
 [1] "Google Cloud-Plattform: Was es ist, wie man es benutzt und wie es verglichen wird"; Acronis; https://www.acronis.com/de-de/articles/google-cloud-platform/ (29.11.2021)
 
 [2] "Google Cloud"; Google Cloud; https://cloud.google.com/ (29.11.2021)
+
+[3] "Kostenlose Stufe"; Google Cloud - Dokumentation; https://cloud.google.com/free/docs/gcp-free-tier#free-tier (20.12.2021)
+
+[4] "Google Cloud-Preise"; Google Cloud; https://cloud.google.com/pricing (20.12.2021)
+
+[5] "Google Cloud Pricing Calculator"; Google Cloud; https://cloud.google.com/products/calculator (20.12.2021)
